@@ -1,0 +1,12 @@
+{
+    "banner": [
+        {
+            "id": 0,
+            "idView": "../public/img/banner.jpg"
+        },
+        {
+            "id": 1,
+            "idView": "../public/img/banner2.jpg"
+        }
+    ]
+}
