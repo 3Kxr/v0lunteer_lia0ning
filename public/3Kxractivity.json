@@ -1,0 +1,28 @@
+{
+    "activity":[
+        {
+            "title":"助老助残",
+            "subtitle":"爱纳融合陪伴志愿活动",
+            "framer":"东北财经大学经济学院",
+            "starttime":"2024-04-12",
+            "map":"辽宁省大连市沙河口区",
+            "color": "green"
+        },
+        {
+            "title": "文化传播",
+            "subtitle": "传承红色基因",
+            "framer": "个人",
+            "starttime": "2024-04-12",
+            "map": "辽宁省沈阳市沈北新区",
+            "color":"red"
+        },
+        {
+            "title": "大型活动",
+            "subtitle": "初会知识挑战赛",
+            "framer": "壹品有限公司志愿服务队",
+            "starttime": "2024-04-12",
+            "map": "辽宁省朝阳市",
+            "color": "blue"
+        }
+    ]
+}
